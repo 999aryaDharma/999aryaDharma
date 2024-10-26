@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a student at INSTIKI with a growing passion for data and everything tech. I'm currently diving deep into JavaScript frameworks and Laravel, expanding my knowledge in data science and web development. My goal is to become highly proficient in these areas and contribute to impactful projects.<br><br>Feel free to explore my repositories or get in touch—I'm always excited to connect and collaborate! 🚀
+orang gila ga tau nasibnya apa
 
 
 ## 🌐 Socials:
